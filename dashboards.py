@@ -3,12 +3,6 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(layout="wide")
-st.set_page_config(page_title="Meu Site Streamlit")
-
-with st.container():
-    st.subheader("Primeiro Tesde do Yuri com o Streamlit")
-    st.title("Dashboard de Vendas do Exemplo do Asimov")
-    st.write("Dados de testes disponiveis no curso")
 
 # Com uma visão mensal
 #faturamento por unidade… 
