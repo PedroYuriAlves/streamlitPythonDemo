@@ -3,6 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 st.set_page_config(layout="wide")
+st.set_page_config(page_title="Yuri - Meu Site Streamlit")
 
 # Com uma visão mensal
 #faturamento por unidade… 
